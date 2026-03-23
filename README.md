@@ -31,7 +31,7 @@ Pumped Storage System
 
 ## 📷 Model Diagram
 
-![System Model](Model.png)
+![System Model](Model_Structure.png)
 
 ---
 
