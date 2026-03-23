@@ -87,5 +87,3 @@ Nataji Subhas University of Technology, Dwarka
 
 ---
 
-If you like this project, consider giving it a star ⭐
-
