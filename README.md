@@ -81,7 +81,7 @@ Pumped Storage System
 
 ## 👨‍💻 Author
 
-* Vishal (Electrical Engineering)
+Vishal (Electrical Engineering)
 
 ---
 
