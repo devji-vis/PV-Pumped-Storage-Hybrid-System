@@ -81,9 +81,7 @@ Pumped Storage System
 
 ## 👨‍💻 Author
 
-* Vishal
-* B.Tech Electrical Engineering
-* Netaji Subhas University of Technology, Dwarka
+* Vishal (Electrical Engineering)
 
 ---
 
